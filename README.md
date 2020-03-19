@@ -1,2 +1,3 @@
 # LoanCalculator
-My JS training
+
+My training project in vanilla JavaScript
