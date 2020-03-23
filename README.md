@@ -1,4 +1,8 @@
 # LoanCalculator
 
 My training project in vanilla JavaScript
-[https://libertyskygraphics.com/test/LoanCalculator/]
+
+- DOM manipulation
+- Use of local storage
+- Bootstrap 4 for quick css.
+  [https://libertyskygraphics.com/test/LoanCalculator/]
